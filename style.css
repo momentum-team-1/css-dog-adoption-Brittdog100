@@ -1,0 +1,47 @@
+.content {
+    margin-left: 32px;
+}
+h1 {
+    background-color: #183e73;
+    color: white;
+    font-family: "Open Sans";
+    margin-left: 32px;
+}
+.head {
+    background-color: #183e73;
+    vertical-align: top;
+}
+h2, p {
+    font-family: "Open Sans";
+}
+.dog-info {
+    max-width: 30%;
+    display: inline-block;
+    padding-top: 8px;
+    padding-right: 8px;
+    vertical-align: top;
+}
+.dog-info > img {
+    width: 100%;
+}
+h3 {
+    font-family: "Oswald";
+}
+.tag {
+    font-family: "Open Sans";
+    background-color: #96cee2;
+    border-radius: 8px;
+    margin-top: 2px;
+    padding-right: 4px;
+    padding-left: 4px;
+    display: inline-block;
+}
+footer span {
+    display: fixed;
+    width: 33.33%;
+    background-size: cover;
+}
+footer span p {
+    z-index: 1;
+    background-color: rgb(136,76,213,0.5);
+}
