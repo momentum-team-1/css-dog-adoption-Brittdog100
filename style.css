@@ -7,9 +7,9 @@ h1 {
     font-family: "Open Sans";
     margin-left: 32px;
 }
-.head {
+header {
     background-color: #183e73;
-    vertical-align: top;
+    overflow: auto;
 }
 h2, p {
     font-family: "Open Sans";
