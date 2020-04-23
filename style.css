@@ -38,10 +38,23 @@ h3 {
 }
 footer span {
     display: fixed;
-    width: 33.33%;
+    min-width: 30%;
     background-size: cover;
 }
-footer span p {
+.donate {
+    background-image: url("images/donate.jpg");
+}
+.volunteer {
+    background-image: url("images/volunteer.jpg");
+}
+.location {
+    background-image: url("images/location.png");
+}
+footer span a {
     z-index: 1;
-    background-color: rgb(136,76,213,0.5);
+    font-family: "Oswald";
+    color: #ffffff;
+    font-size: 32px;
+    background-color: rgba(135, 76, 213, 0.349);
+    text-align: center;
 }
